@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'camera_ex.dart';
+import 'services/camera_ex.dart';
 
 void main() {
   runApp(const MyApp());
